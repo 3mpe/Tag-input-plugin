@@ -22,7 +22,7 @@ JQuery key value select tag input
       "id": 1, 
       "disabled": false, 
       "groupName"
-      "groupId": 3
+      "groupId": 3,
       "selected": false, 
       "name": "Test" 
     },
@@ -34,7 +34,6 @@ JQuery key value select tag input
       "selected": false,
       "name": "Test User"
     }
-    // more ...
 ]
 ```
 
